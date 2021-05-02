@@ -1,0 +1,72 @@
+.main{
+    position: relative;
+    width:192vh;
+    height:290vh;
+    background-color: gainsboro;
+    left: 80px;
+    top: 50px;
+    bottom: 50px;
+    border: 1px solid gray;
+    box-shadow: 10px 10px 5px gray;
+}
+.container{
+    position: absolute;
+    left: 15px;
+    top: 30px;
+    
+}
+.headimg{
+    width: 70px;
+    height: 90px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.card-text.first{
+    font-family: serif;
+    line-height: 1;
+    width: 100px;
+}
+.second{
+    position: absolute;
+    background-color: gainsboro;
+    left: 35px;
+    top: 160px;
+    width: 175vh;
+    height: 40px;
+    padding-top: 5px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    z-index: 1;
+}
+.third{
+    position: absolute;
+    top: 190px;
+    
+    width: 190vh;
+    height:100vh;
+    background-color:gainsboro;
+}
+.card.mb-3{
+    border-color:white;
+}
+.fourth{
+    position: absolute;
+    top: 1680px;
+    
+    width: 191.6vh;
+    height: 7vh;
+    background-color: black;
+    color: white
+}
+.card.electric{
+    background-color: gainsboro;
+    border: 1px solid gainsboro;
+}
+.card.mb-3{
+    background-color: gainsboro;
+    border: 1px solid gainsboro;
+}
+.main1{
+    font-size: 20px;
+}
